@@ -16,12 +16,16 @@ Clone the repository or download the source code.
 Navigate to the project directory.
 Install the dependencies:
 
-``` npm install ```
+``` 
+npm install
+```
 
 Starting the Server
 To start the server, run the following command in the terminal:
 
-```npm start```
+```
+npm start
+```
 
 ## Testing the Server
 
@@ -52,13 +56,17 @@ Install the dependencies:
 bash
 Copy code
 
-```npm install```
+```
+npm install
+```
 
 ## Starting the Server
 
 To start the server, run the following command in the terminal:
 
-```npm start```
+```
+npm start
+```
 
 The server will start, and you should see a message indicating that it's running on a specific port (default is 3000).
 
